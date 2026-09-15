@@ -1,0 +1,13 @@
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+opencv-python>=4.9.0
+mediapipe>=0.10.11
+torch>=2.2.0
+torchvision>=0.17.0
+git+https://github.com/ChaoningZhang/MobileSAM.git
+numpy>=1.26.0
+pydantic>=2.6.0
+pytest>=8.0.0
+mypy>=1.9.0
+ruff>=0.3.0
+timm
